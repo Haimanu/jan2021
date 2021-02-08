@@ -6,11 +6,5 @@ stage('fetching code from git'){
   echo 'this is build stage'
   }
   } 
-   stage('webhooktrigger'){
-  steps{
-  echo 'this is webhook trigger'
-  }
-  }
-
  }
 }
