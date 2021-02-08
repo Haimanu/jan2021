@@ -10,6 +10,12 @@ stages {
   steps{
   echo 'this is build stage'
   } 
+  } 
+   stage('This is feature stage') {
+  steps{
+  echo 'this is Feature stage'
   }
- }
-}
+  }
+
+ } 
+} 
