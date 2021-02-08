@@ -1,3 +1,0 @@
-this is first commit
-this is my relese one
-this is tag based commit
